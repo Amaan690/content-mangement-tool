@@ -1,2 +1,2 @@
-# content-mangement-tool
-Project-1
+# PROJECT_1
+Content Management Tool Project using Html,Css and Javascript.
